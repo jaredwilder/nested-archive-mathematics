@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "For individual results, prefer citing the focused subject repository."
+title: "Mathematics recovered from nested archives"
+authors:
+  - family-names: "Wilder"
+    given-names: "Jared"
+type: dataset
+repository-code: "https://github.com/jaredwilder/nested-archive-mathematics"
+license: Apache-2.0
